@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which of these is a popular neighborhood known for its shopping, dining,
     and nightlife in Vancouver?
+  answers:
+  - Yaletown
+  - Gastown
+  - Kerrisdale
+  - 'West End '
+  correctAnswerIndex: 0

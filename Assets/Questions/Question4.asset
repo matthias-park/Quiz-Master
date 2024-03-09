@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: ' What is the name of the suspension bridge in North Vancouver that is
     a popular tourist attraction?'
+  answers:
+  - Golden Gate Bridge
+  - Lions Gate Bridge
+  - Capilano Suspension Bridge
+  - Alexandria Bridge
+  correctAnswerIndex: 2

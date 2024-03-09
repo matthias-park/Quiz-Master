@@ -15,3 +15,9 @@ MonoBehaviour:
   question: 'Vancouver is part of which Canadian province?
 
 '
+  answers:
+  - Alberta
+  - 'British Columbia '
+  - Ontario
+  - Quebec
+  correctAnswerIndex: 1
